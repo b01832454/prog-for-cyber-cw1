@@ -20,3 +20,6 @@ failed logins reach the maximum attempts, display a message that the
 account is frozen for 24 hours.
 
 4 - exits program
+
+
+<img width="997" height="894" alt="image" src="https://github.com/user-attachments/assets/2d566cec-cb94-406c-92b1-3a04b1d4deba" />
