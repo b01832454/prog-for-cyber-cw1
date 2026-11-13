@@ -10,4 +10,5 @@ Branch 2 - IP Address Validator: This function checks user input for IP address,
 Branch 3 - Security Event Logger: This has two correct credentials, allows a user to input and test whether or not the credentials were correct, displaying if correct or false along with more details.
 
 Branch 4 - Security Incident Manager: This is a dictionary, allowing a user to see how to manipulate dictionaries
+
 Branch 5 - Security Tool: This is a full tool giving a Security Event Counter, Brute Force Simulation and Login authenticator
